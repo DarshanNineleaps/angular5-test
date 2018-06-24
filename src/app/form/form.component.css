@@ -1,0 +1,48 @@
+.form-class{
+  padding: 50px;
+}
+.form-class .form-group{
+  text-align: left;
+}
+.name-text {
+position: absolute !important;
+left: 25% !important;
+margin-top: 20px;
+}
+.name-field {
+  position: absolute !important;
+  left: 34% !important;
+  width: 500px !important;
+  margin-top: 20px;
+}
+
+.email-text {
+  position: absolute !important;
+  left: 25% !important;
+  margin-top: 100px;
+}
+.email-field {
+  position: absolute !important;
+  left: 34% !important;
+  width: 500px !important;
+  margin-top: 100px;
+}
+
+.password-text {
+  position: absolute !important;
+  left: 25% !important;
+  margin-top: 180px;
+}
+.password-field {
+  position: absolute !important;
+  left: 34% !important;
+  width: 500px !important;
+  margin-top: 180px;
+}
+
+.btn {
+  margin-top: 250px;
+}
+.form-horizontal {
+  padding-top: 60px;
+}
